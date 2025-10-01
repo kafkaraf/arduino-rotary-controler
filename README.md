@@ -44,7 +44,8 @@ https://github.com/RobotsDinosaurs/Arduino/blob/main/IRRemote/IRRemote.ino
   ![Aki 12V](https://github.com/user-attachments/assets/5f19495b-6260-4d4b-9521-e8723ba0422b)
 
 Result : 
-[![Tonton di YouTube](www.youtube.com/shorts/h7_SBmNpQno?si=SEa7SeSkBp0AbgZR)
+[![Tonton di YouTube](https://img.youtube.com/vi/h7_SBmNpQno/0.jpg)](https://www.youtube.com/watch?v=h7_SBmNpQno)
+
 
 **Flow Alat :**
 1. Saat Remote CR2025 (Car MP3) di tekan pada angka "5" maka Sensor IR di **Pin 7** akan memberikan kode ke Arduino
