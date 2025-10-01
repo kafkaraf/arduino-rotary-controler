@@ -34,14 +34,15 @@ https://github.com/RobotsDinosaurs/Arduino/blob/main/IRRemote/IRRemote.ino
    - Positif (+) : **Fuse** -> **COM** Relay
    - Negatif (-) : GND Rotary dan GND Arduino (GND Disatuin pada lampu rotary, relay, aki)
 
-  Flow Pin Diagram : 
-  <img width="1100" height="790" alt="Rotary-IR Receiver" src="https://github.com/user-attachments/assets/2855dae6-90a3-4707-be25-c31d84130c19" />
 
-  Fuse Holder & Glass:
-  <img width="906" height="481" alt="Fuse Holder   Glass Fuse" src="https://github.com/user-attachments/assets/e7cab5e5-e4dc-426c-b0d8-3f8bce978f2b" />
+Flow Pin Diagram : 
+<img width="1100" height="790" alt="Rotary-IR Receiver" src="https://github.com/user-attachments/assets/2855dae6-90a3-4707-be25-c31d84130c19" />
 
-  Aki (12 Volt-12AH) :
-  ![Aki 12V](https://github.com/user-attachments/assets/5f19495b-6260-4d4b-9521-e8723ba0422b)
+Fuse Holder & Glass:
+<img width="906" height="481" alt="Fuse Holder   Glass Fuse" src="https://github.com/user-attachments/assets/e7cab5e5-e4dc-426c-b0d8-3f8bce978f2b" />
+
+Aki (12 Volt-12AH) :
+![Aki 12V](https://github.com/user-attachments/assets/5f19495b-6260-4d4b-9521-e8723ba0422b)
 
 Result : 
 [![Tonton di YouTube](https://img.youtube.com/vi/h7_SBmNpQno/0.jpg)](https://www.youtube.com/watch?v=h7_SBmNpQno)
