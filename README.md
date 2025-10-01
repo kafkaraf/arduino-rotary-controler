@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-10-01 at 23 46 22_35140146](https://github.com/user-attachments/assets/bf129445-e274-47ac-bad4-326b18156565)# arduino-rotary-controler
+# arduino-rotary-controler
 Simple IR remote controlled relay switch for automotive/motorcycle rotary LED lamp (12V).
 
 Implementasi IR receiver dengan relay sebagai saklar elektronik untuk lampu rotary pada aki 12V, terinspirasi dari :
