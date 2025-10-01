@@ -38,10 +38,8 @@ https://github.com/RobotsDinosaurs/Arduino/blob/main/IRRemote/IRRemote.ino
 Flow Pin Diagram : 
 <img width="1100" height="790" alt="Rotary-IR Receiver" src="https://github.com/user-attachments/assets/2855dae6-90a3-4707-be25-c31d84130c19" />
 
-Fuse Holder & Glass:
+Fuse Holder & Glass: Aki (12 Volt-12AH) :
 <img width="906" height="481" alt="Fuse Holder   Glass Fuse" src="https://github.com/user-attachments/assets/e7cab5e5-e4dc-426c-b0d8-3f8bce978f2b" />
-
-Aki (12 Volt-12AH) :
 ![Aki 12V](https://github.com/user-attachments/assets/5f19495b-6260-4d4b-9521-e8723ba0422b)
 
 Result : 
